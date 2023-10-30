@@ -1,2 +1,2 @@
-# aname
-wd
+welcome to the thing
+have fun
